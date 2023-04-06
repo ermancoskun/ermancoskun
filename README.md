@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ermancoskun
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Postman API Testing
+- 🌱 I’m currently learning API Testing
 - 💞️ I’m looking to collaborate on QA Testing
 - 📫 How to reach me linkedin.com/in/ermancoskun
 
